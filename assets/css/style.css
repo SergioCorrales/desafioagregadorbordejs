@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.borde-rojo {
+    border: 2px solid red;
+}
+
+#pokemons {
+    cursor: pointer;
+}
